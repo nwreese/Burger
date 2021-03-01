@@ -38,9 +38,10 @@ document.addEventListener('DOMContentLoaded', (event) => {
     const createBurgerBtn = document.getElementById('create-form');
   
     if (createBurgerBtn) {
-      createCatBtn.addEventListener('submit', (e) => {
+      createBurgerBtn.addEventListener('submit', (e) => {
         e.preventDefault();
-  
+        
+
         const newBurger = {
           burger_name: document.getElementById('ca').value.trim(),
           devoured: document.getElementById('devoured').checked,
@@ -75,7 +76,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
           console.log(res);
           console.log(`Deleted burger: ${id}`);
   
-          location.reload();
+           location.reload();
         });
       });
     });
