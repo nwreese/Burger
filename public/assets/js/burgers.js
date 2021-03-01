@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
           const newDevour = e.target.getAttribute('data-newdevour');
   
           const newDevourState = {
-            devoured: newDevour,
+            devour: newDevour,
           };
   
           fetch(`/api/burgers/${id}`, {
