@@ -131,7 +131,7 @@ Having an active and healthy commit history on GitHub is important for your futu
 1. Inside your `burger` directory, create a folder named `controllers`.
 
 2. In `controllers`, create the `burgers_controller.js` file.
-<!-- need to do -->
+
 3. Inside the `burgers_controller.js` file, import the following:
 
    * Express
