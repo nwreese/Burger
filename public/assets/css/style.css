@@ -37,3 +37,12 @@ li {
   background-color: rgba(14, 107, 14, 0.39);
 
 }
+/* #burgerPic {
+  width: 10%;
+} */
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+}
