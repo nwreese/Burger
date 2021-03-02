@@ -1,13 +1,13 @@
 # Eat-Da-Burger
 <br>
-## Description 
+# Description 
 <br>
 This is a burger logger full stack application using MySQL, Node, Express, Handlebars and a homemade ORM.
 <br>
-## Deployed 
+# Deployed 
 <br>
 This application is deployed by Heroku at https://frozen-anchorage-02767.herokuapp.com/
 <br>
-## Screenshot
+# Screenshot
 <br>
-public\assets\Screenshot (55).png
+<img src=public\assets\Screenshot (55).png>
