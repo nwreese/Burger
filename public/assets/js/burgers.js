@@ -59,7 +59,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
           document.getElementById('ca').value = '';
 
           console.log('Created a new burger!');
-          location.reload();
+           location.reload();
         });
       });
     }
