@@ -10,4 +10,4 @@ This application is deployed by Heroku at https://frozen-anchorage-02767.herokua
 <br>
 # Screenshot
 <br>
-![Screenshot](assets/screenshot.png)
+<img src = "assets/screenshot.png">
