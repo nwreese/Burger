@@ -1,4 +1,4 @@
-body{
+ body{
   background-color: bisque;
 }
 
@@ -45,4 +45,7 @@ li {
 }
 .devoured{
   float:right;
+} 
+.notDevoured{
+  float:left;
 }
